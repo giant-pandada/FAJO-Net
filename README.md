@@ -32,7 +32,7 @@ Run eval.py.
 
 - [Baidu Drive](https://pan.baidu.com/s/1eJ0c7k8k-a90orRwvyapRQ?pwd=drhj)
 
-- [Google Drive](https://pan.baidu.com/s/1eJ0c7k8k-a90orRwvyapRQ?pwd=drhj) 
+- [Google Drive](https://drive.google.com/file/d/1zYualASyDcsuV5PoO37VpvboxXEU21sZ/view?usp=sharing) 
 
 
 
