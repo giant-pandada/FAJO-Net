@@ -28,7 +28,7 @@ Run eval.py.
 
 ## :link: Pre-trained weights of the model.
 
-- [Pretrained Models](https://pan.baidu.com/s/1RTfLRxqy-embWdtUf6TG7g?pwd=wxkq):`./results/{sampling rate}/models/model.pth`.
+- [Pretrained Models](https://pan.baidu.com/s/1eJ0c7k8k-a90orRwvyapRQ?pwd=drhj):`./results/{sampling rate}/models/model.pth`.
 
 
 
