@@ -28,7 +28,11 @@ Run eval.py.
 
 ## :link: Pre-trained weights of the model.
 
-- [Baidu Drive](https://pan.baidu.com/s/1eJ0c7k8k-a90orRwvyapRQ?pwd=drhj):`./results/{sampling rate}/models/model.pth`.
+`./results/{sampling rate}/models/model.pth`.
+
+- [Baidu Drive](https://pan.baidu.com/s/1eJ0c7k8k-a90orRwvyapRQ?pwd=drhj)
+
+- [Google Drive](https://pan.baidu.com/s/1eJ0c7k8k-a90orRwvyapRQ?pwd=drhj) 
 
 
 
