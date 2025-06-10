@@ -18,17 +18,17 @@ In preparation.
 
 ## :baby_chick: Evaluation
 :one: Preparation 1: 
-Set the sampling rate (0.01,0.04,0.10,0.25,0.50) and dataset for the test in the eval.py.
+Set the sampling rate (0.01, 0.04, 0.10, 0.25, 0.50) and dataset for the test in the eval.py.
 
 :two: Preparation 2: 
-Place the test dataset into the `./dataset/test/` folder and Place the pre-trained weights of the model into the `./results/10/models/` folder.
+Place the test dataset into the `./dataset/test/` folder and Place the pre-trained weights of the model into the `./results/{sampling rate}/models/` folder.
 
 :triangular_flag_on_post: Operation: 
 Run eval.py.
 
 ## :link: Pre-trained weights of the model.
 
-- [Pretrained Models](https://pan.baidu.com/s/1RTfLRxqy-embWdtUf6TG7g?pwd=wxkq):`./results/10/models/model.pth`.
+- [Pretrained Models](https://pan.baidu.com/s/1RTfLRxqy-embWdtUf6TG7g?pwd=wxkq):`./results/{sampling rate}/models/model.pth`.
 
 
 
